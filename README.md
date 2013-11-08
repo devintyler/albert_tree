@@ -1,4 +1,4 @@
-albert_tree
+Albert Tree
 ===========
 
-The new way to organize your Albert Tree
+Visualize your courses as a skill tree.
